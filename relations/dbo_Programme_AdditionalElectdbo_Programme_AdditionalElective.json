@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "dbo_Programme_AdditionalElectdbo_Programme_AdditionalElective",
+    "Attributes": 2,
+    "Table": "dbo_Programme_AdditionalElectiveBundles",
+    "ForeignTable": "dbo_Programme_AdditionalElectiveBundleModules",
+    "Fields": [
+      {
+        "Name": "Id",
+        "ForeignName": "Model_AdditionalElectiveBundleId"
+      }
+    ]
+  }
+}

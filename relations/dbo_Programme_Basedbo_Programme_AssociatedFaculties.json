@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "dbo_Programme_Basedbo_Programme_AssociatedFaculties",
+    "Attributes": 2,
+    "Table": "dbo_Programme_Base",
+    "ForeignTable": "dbo_Programme_AssociatedFaculties",
+    "Fields": [
+      {
+        "Name": "Id",
+        "ForeignName": "Model_ProgrammeFormId"
+      }
+    ]
+  }
+}
