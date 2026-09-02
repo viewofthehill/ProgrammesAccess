@@ -1,0 +1,10 @@
+﻿{
+  "Info": {
+    "Class": "clsDbQuery",
+    "Description": "Database query"
+  },
+  "Items": {
+    "QueryType": 0,
+    "Hidden": false
+  }
+}
